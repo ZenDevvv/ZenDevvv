@@ -8,7 +8,7 @@ I work with a structured **AI-augmented workflow** using Claude Opus, Codex, and
 
 ### 🔧 What I'm Building
 
-Currently at **Uzaro Solutions** shipping 8+ production platforms:
+Currently at **Uzaro Solutions** shipping 4+ production platforms:
 
 | Domain | Systems |
 |--------|---------|
