@@ -86,7 +86,7 @@ Deepening expertise in AI-augmented software engineering — mastering Next.js, 
 
 ### 🔗 Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zendev--portfolio-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://zendev-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zendevvv-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://zendevvv.netlify.app)
 [![Email](https://img.shields.io/badge/Email-zenandreiobrero777@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zenandreiobrero777@gmail.com)
 
 ---
