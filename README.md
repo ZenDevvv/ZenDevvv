@@ -4,8 +4,6 @@ Full-stack developer working in React, TypeScript and Node, based in Dasmariñas
 
 🟢 **Open to work.**
 
-I use AI tools (Claude, Codex, Gemini) to speed up scaffolding and reviews, and I read every line that ships.
-
 ---
 
 ### 🧱 What I've Built
