@@ -2,7 +2,7 @@
 
 Full-stack developer working in React, TypeScript and Node, based in Dasmariñas, Cavite, Philippines. I build multi-tenant platforms end to end, from the data model to the last hover state, across HR, inventory, education and IoT.
 
-🟢 **Open to work.** Aiming for a senior full-stack or tech lead role.
+🟢 **Open to work.**
 
 I use AI tools (Claude, Codex, Gemini) to speed up scaffolding and reviews, and I read every line that ships.
 
@@ -26,7 +26,7 @@ Also shipped: hotel reservations, order management, supply chain and project man
 - 🏍️ **Odoko** is an offline-first Android app for Filipino motorcycle riders: a fuel, service and spending logbook with an AI mascot that runs a Gemma 3 1B model entirely on the phone, so nothing leaves the device. Built with Expo, React Native and Kotlin native modules, with the model fine-tuned using Unsloth.
 - 🐤 **Peck** is a job application tracker and AI resume builder for Philippine job seekers, built as a mobile-first PWA. An LLM fills fixed slots from facts the user confirmed, and a custom validator rejects any line it can't trace back to one.
 
-Both repos are private for now. More on my [portfolio](https://zendevvv.netlify.app/projects/).
+More on my [portfolio](https://zendevvv.netlify.app/projects/).
 
 ---
 
