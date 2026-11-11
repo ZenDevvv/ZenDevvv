@@ -1,6 +1,8 @@
 # Hey, I'm Zen 👋
 
-Full-stack developer working in React, TypeScript and Node, based in Dasmariñas, Cavite, Philippines. I build multi-tenant platforms end to end, from the data model to the last hover state, across HR, inventory, education and IoT.
+**Mid-level Full-Stack Developer** building multi-tenant platforms with React, TypeScript and Node.js. Shipped production ERP, HR and learning systems, including an HRIS for Bandai Namco. Owned features end to end, from data models and APIs to CI/CD and UI, working directly with clients through delivery. Hands-on with applied AI, building LLM pipelines with strict validation, fine-tuning small language models for on-device use, and using AI coding tools to ship faster while reviewing every line.
+
+📍 Dasmariñas, Cavite, Philippines
 
 🟢 **Open to work.**
 
@@ -17,11 +19,12 @@ Two years at **Uzaro Solutions** (Nov 2024 – Sept 2026), delivering sprints on
 | 📚 **ALMA** | Multi-tenant LMS with tenant isolation, an assessment engine, attendance and gradebook: 3 tenants, 200+ students, 15+ instructors. |
 | 🔌 **IoT dashboard** | Smart door locks, relays and gateways in one React dashboard: real-time control of 50+ endpoints at under 500 ms latency. |
 
-Also shipped: hotel reservations, order management, supply chain and project management systems.
+Also shipped: production planning for Bandai Namco, order management, supply chain and project management systems.
 
 ### 🚧 In Development
 
-- 🏍️ **Odoko** is an offline-first Android app for Filipino motorcycle riders: a fuel, service and spending logbook with an AI mascot that runs a Gemma 3 1B model entirely on the phone, so nothing leaves the device. Built with Expo, React Native and Kotlin native modules, with the model fine-tuned using Unsloth.
+- 🧹 **Hazusu** is "a clean-out zine for your camera roll": an offline Android app for clearing out photos and videos one at a time, swiping to toss, keep, fave or skip. Nothing is deleted until you confirm, and the release build has no internet permission at all. Built with Expo, React Native and four Kotlin native modules over SQLite; on-device image and text search with MobileCLIP on ONNX Runtime is planned.
+- 🏍️ **Odoko** is an offline-first Android app for Filipino motorcycle riders: a fuel, service and spending logbook with an AI mascot that runs a Gemma 3 1B model entirely on the phone, so nothing leaves the device. Built with Expo, React Native and Kotlin native modules. I also fine-tuned Gemma 3 1B with Unsloth (QLoRA) for it on a 4 GB laptop GPU.
 - 🐤 **Peck** is a job application tracker and AI resume builder for Philippine job seekers, built as a mobile-first PWA. An LLM fills fixed slots from facts the user confirmed, and a custom validator rejects any line it can't trace back to one.
 
 More on my [portfolio](https://zendevvv.netlify.app/projects/).
@@ -97,6 +100,7 @@ More on my [portfolio](https://zendevvv.netlify.app/projects/).
 
 ![Gemma](https://img.shields.io/badge/Gemma_3_1B-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Opus_5-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_3.1_Pro-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
