@@ -21,9 +21,9 @@ Two years at **Uzaro Solutions** (Nov 2024 – Sept 2026), delivering sprints on
 
 Also shipped: production planning for Bandai Namco, order management, supply chain and project management systems.
 
-### 🚧 In Development
+### 🧪 Personal Projects
 
-- 🧹 **Hazusu** is "a clean-out zine for your camera roll": an offline Android app for clearing out photos and videos one at a time, swiping to toss, keep, fave or skip. Nothing is deleted until you confirm, and the release build has no internet permission at all. Built with Expo, React Native and four Kotlin native modules over SQLite; on-device image and text search with MobileCLIP on ONNX Runtime is planned.
+- 🧹 **Hazusu** (in development) is "a clean-out zine for your camera roll": an offline Android app for clearing out photos and videos one at a time, swiping to toss, keep, fave or skip. Nothing is deleted until you confirm, and the release build has no internet permission at all. Built with Expo, React Native and four Kotlin native modules over SQLite; on-device image and text search with MobileCLIP on ONNX Runtime is planned.
 - 🏍️ **Odoko** is an offline-first Android app for Filipino motorcycle riders: a fuel, service and spending logbook with an AI mascot that runs a Gemma 3 1B model entirely on the phone, so nothing leaves the device. Built with Expo, React Native and Kotlin native modules. I also fine-tuned Gemma 3 1B with Unsloth (QLoRA) for it on a 4 GB laptop GPU.
 - 🐤 **Peck** is a job application tracker and AI resume builder for Philippine job seekers, built as a mobile-first PWA. An LLM fills fixed slots from facts the user confirmed, and a custom validator rejects any line it can't trace back to one.
 
